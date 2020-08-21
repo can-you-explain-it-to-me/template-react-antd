@@ -1,0 +1,29 @@
+{
+  "name": "snow",
+  "version": "0.0.1",
+  "description": "cli for antd admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/can-you-explain-it-to-me/snow.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/can-you-explain-it-to-me/snow/issues"
+  },
+  "homepage": "https://github.com/can-you-explain-it-to-me/snow#readme",
+  "dependencies": {
+    "antd": "^4.5.4",
+    "axios": "^0.20.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.46",
+    "@types/react-dom": "^16.9.8"
+  }
+}
